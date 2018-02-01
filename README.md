@@ -1,7 +1,11 @@
 # ImgCrypt
 ---
-Author : Bartek Kurpanik
-
+  Author's
+  
+  Bartek Kurpanik
+  
+  Kolega Krzysiu
+  
 File List
 ---
 
